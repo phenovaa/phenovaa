@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Tommy Chen!
 
-👨‍💻 I am a passionate full stack developer with 10 years of experience.</br>
-👾 I also have 10 years of experience as a Game Developer, including Roblox development.
+👨‍💻 I am a passionate full stack developer with 10 years of experience. </br>
+👾 I also have 10 years of experience as a Game Developer, including Roblox development. </br>
 👨‍🎓 Studied Software Development at the Rotterdam University of Applied Sciences </br>
 🇨🇳 My ethnicity is Chinese </br>
 ⚽ My hobbies are playing soccer and dancing </br>
