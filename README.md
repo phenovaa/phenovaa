@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Tommy Chen!
 
-👨‍💻 Software Engineer sharing about my journey and learnings in tech  </br>
+👨‍💻 I am a passionate full stack developer with 10 years of experience.</br>
 👨‍🎓 Studied Software Development at the Rotterdam University of Applied Sciences </br>
-
+🇨🇳 My ethnicity is Chinese </br>
+⚽ My hobbies are playing soccer and dancing </br>
 
 
 ## 🌐 Socials:
