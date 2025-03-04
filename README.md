@@ -1,4 +1,4 @@
-## I'm Tommy
+## 👋 Hi, I'm Tommy Chen!
 
 👨‍💻 Software Engineer sharing about my journey and learnings in tech  </br>
 👨‍🎓 Studied Software Development at the Rotterdam University of Applied Sciences </br>
