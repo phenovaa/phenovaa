@@ -2,8 +2,6 @@
 
 👨‍💻 I am a passionate Software Engineer with 5 years of experience. </br>
 👾 I also have 10 years of experience as a Game Developer, including Roblox development. </br>
-🇨🇳 My ethnicity is Chinese </br>
-⚽ My hobbies are playing soccer and dancing </br>
 
 
 ## 🌐 Socials:
